@@ -1,108 +1,134 @@
 
 <div align="center">
 
-# 👋 Olá! Eu sou Lucas Castro
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B3D,100:00D9FF&height=200&section=header&text=LUCAS%20CASTRO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20TECH%20%7C%20INNOVATION&descAlignY=60&descSize=14" />
 
-### 💻 Estudante de Engenharia de Software
-
-**Desenvolvimento de Software | Inteligência Artificial | Cibersegurança**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+world!+I'm+Lucas+Castro.;Software+Engineering+Student.;Exploring+AI%2C+Development+%26+Cybersecurity.;Building+ideas+into+real+projects." alt="Typing SVG" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/lucas-castro-b13036262/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=050816" />
 </a>
 <a href="https://github.com/lukinhascastro2006-cpu">
-  <img src="https://img.shields.io/badge/GitHub-Meu_Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111B3D?style=for-the-badge&logo=github&logoColor=00D9FF" />
 </a>
 
-</div>
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de **Engenharia de Software**, atualmente no segundo semestre, e estou construindo minha trajetória profissional na área de tecnologia por meio de estudos, projetos práticos e aprendizado contínuo.
-
-Tenho interesse em desenvolvimento de software, inteligência artificial, automação de processos, análise de dados e cibersegurança.
-
-Acredito que a tecnologia é uma ferramenta para resolver problemas reais. Por isso, busco transformar conhecimentos adquiridos em sala de aula em projetos práticos, desenvolver minha lógica de programação e evoluir constantemente como profissional.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=lukinhascastro2006-cpu&style=for-the-badge&color=111B3D&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧠 Áreas de interesse
+## `01 // ABOUT_ME`
 
-- 💻 Desenvolvimento de Software e aplicações Web
-- 🐍 Python e automação de processos
-- 🤖 Inteligência Artificial e análise de dados
-- 🔐 Cibersegurança e infraestrutura de TI
-- ⚙️ Engenharia de Software e resolução de problemas
+```python
+class LucasCastro:
+    def __init__(self):
+        self.role = "Software Engineering Student"
+        self.current_semester = 2
+        self.interests = [
+            "Software Development",
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Automation",
+            "Data Analysis"
+        ]
+        self.goal = "Transform ideas into technology"
 
----
+    def say_hi(self):
+        print("Welcome to my GitHub!")
+```
 
-## 📂 Projetos em destaque
+Sou estudante de **Engenharia de Software** e entusiasta da tecnologia. Estou construindo minha trajetória profissional por meio de estudos, desafios e projetos práticos.
 
-| Projeto | Descrição |
-|---|---|
-| [Finho — Organizador Financeiro](https://github.com/lukinhascastro2006-cpu/dio-lab-vibe-coding-app-financas) | Projeto de organização financeira conversacional desenvolvido em um laboratório de aprendizado. |
-| InfraTicket | Protótipo acadêmico para abertura, classificação e acompanhamento de chamados de TI. |
-| Cifra de César | Projeto em Python para praticar lógica de programação e conceitos básicos de criptografia. |
-| Cardápio Virtual | Aplicação em Python com interface gráfica para simular um cardápio de hamburgueria. |
-
-*Os projetos acadêmicos e protótipos representam minha evolução e prática durante a graduação.*
-
----
-
-## 📚 Atualmente estudando
-
-- Engenharia de Software e lógica de programação.
-- Desenvolvimento Web com HTML, CSS e JavaScript.
-- Python aplicado à automação, dados e inteligência artificial.
-- Fundamentos de segurança da informação.
-- Boas práticas de desenvolvimento e versionamento com Git.
+Meu objetivo é desenvolver soluções que conectem tecnologia, inovação e resolução de problemas reais.
 
 ---
 
-## 📊 Minha jornada no GitHub
+## `02 // TECH_STACK`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lukinhascastro2006-cpu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+### PROGRAMMING & DEVELOPMENT
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhascastro2006-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+
+### AREAS OF INTEREST
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111B3D?style=for-the-badge&logo=openai&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-111B3D?style=for-the-badge&logo=hackthebox&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/AUTOMATION-111B3D?style=for-the-badge&logo=probot&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-111B3D?style=for-the-badge&logo=python&logoColor=00D9FF" />
 
 </div>
 
 ---
 
-## 🤝 Vamos nos conectar?
+## `03 // FEATURED_PROJECTS`
 
-Estou aberto a trocar conhecimentos, colaborar em projetos, participar de comunidades de tecnologia e conhecer oportunidades para desenvolver minha carreira.
+| PROJECT | DESCRIPTION | STATUS |
+|:---|:---|:---:|
+| [Finho](https://github.com/lukinhascastro2006-cpu/dio-lab-vibe-coding-app-financas) | Organizador financeiro conversacional | 🧪 |
+| InfraTicket | Protótipo de gerenciamento de chamados de TI | 🧪 |
+| Cifra de César | Criptografia básica desenvolvida em Python | 📚 |
+| Cardápio Virtual | Interface gráfica em Python para hamburgueria | 📚 |
+
+<sub>🧪 Projeto em desenvolvimento ou protótipo acadêmico · 📚 Projeto de aprendizado</sub>
+
+---
+
+## `04 // GITHUB_ANALYTICS`
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lukinhascastro2006-cpu&show_icons=true&count_private=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukinhascastro2006-cpu&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" />
+
+<br>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=lukinhascastro2006-cpu&hide_border=true&background=050816&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" />
+
+</div>
+
+---
+
+## `05 // CURRENT_MISSION`
+
+```text
+[ IN PROGRESS ]
+
+> Improving software engineering fundamentals
+> Developing practical programming projects
+> Exploring Python, Data and Artificial Intelligence
+> Learning about cybersecurity and infrastructure
+> Building a professional technology portfolio
+
+[ OBJECTIVE ]
+
+Build. Learn. Innovate. Repeat.
+```
+
+---
+
+## `06 // CONNECT_WITH_ME`
+
+<div align="center">
+
+### LET'S BUILD SOMETHING GREAT.
+
+Estou aberto a conexões, troca de conhecimentos, projetos colaborativos e oportunidades na área de tecnologia.
 
 <a href="https://www.linkedin.com/in/lucas-castro-b13036262/">
-  <img src="https://img.shields.io/badge/LinkedIn-Lucas_Castro-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=050816" />
 </a>
 
 <br><br>
 
-**"Aprender, desenvolver e evoluir. Um projeto de cada vez."** 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111B3D,100:050816&height=100&section=footer" />
+
+<sub>© 2026 Lucas Castro | Software Engineering & Technology</sub>
 
 </div>
+
